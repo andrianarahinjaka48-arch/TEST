@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: blue;
+    font-size: 300%;
+    font-style: italic;
+}
+
+#CONTACT{
+    text-align: left;
+    color: rgb(6, 6, 6);
+    background-color: chartreuse;
+}
+#PROFIL{
+    text-align: right;
+    color: black;
+    background-color: chocolate;
+}
+#COMPETENCES{
+    text-align: left;
+    color: black;
+    background-color: aqua;
+}
+#FORMATION{
+    text-align: right;
+    color: black;
+    background-color: crimson;
+}
+#PROJETS{
+    text-align: left;
+    color: black;
+    background-color: cadetblue;
+}
+#LANGUES{
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+h3{
+    text-align: left;
+    color: blue;
+}
+h4{
+    color: chartreuse;
+}
+body{
+    background: url(RaLouis.png);
+}
+.AJOUTER{
+    background-color: blue;
+    
+}
